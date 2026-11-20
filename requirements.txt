@@ -1,0 +1,12 @@
+
+gradio
+spaces
+google-genai
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+rank_bm25
